@@ -1,5 +1,5 @@
 # 30-day-challenge
 
-- Goal is to become 6 star HackerRank coder
+- Goal: To become a 6 star HackerRank coder
 - Category: Problem Solving
-- Language used: Java
+- Language(s) used: Java
