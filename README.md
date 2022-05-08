@@ -1,3 +1,5 @@
 # 30-day-challenge
 
-- Logic Building through HackerRank
+- Goal is to become 6 star HackerRank coder
+- Category: Problem Solving
+- Language used: Java
